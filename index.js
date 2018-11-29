@@ -1,15 +1,3 @@
-// TODO
-// Fix ctrl + c issue
-// Auto mine
-// Calculate cost
-// add events
-// money
-// update function
-// swap 0x
-// metdata about result and contractor about number of rows
-// pub/priv keys
-// permissions
-
 const { prompt } = require('enquirer');
 
 const Web3 = require('web3');
@@ -112,7 +100,7 @@ const contractor = async () => {
     const query = web3.toAscii(queries[2]);
     const split = query.split(' ');
     const from = split[1];
-    const to = split[3].slice(0, -1);
+    const to = split[3];
     const queryRes = data.result.filter((obj) => (obj.time >= from && obj.time <= to));
     const ipfsRes = await uploadToIPFS(new Buffer(JSON.stringify(queryRes, null, 2)));
     const ipfsHash = ipfsRes[0].hash;
