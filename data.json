@@ -1,0 +1,184 @@
+{
+  "result": [
+    {
+      "time": 0,
+      "value": "IN"
+    },
+    {
+      "time": 0,
+      "value": "OUT"
+    },
+    {
+      "time": 0,
+      "value": "IN"
+    },
+    {
+      "time": 0,
+      "value": "IN"
+    },
+    {
+      "time": 0,
+      "value": "IN"
+    },
+    {
+      "time": 0,
+      "value": "OUT"
+    },
+    {
+      "time": 0,
+      "value": "IN"
+    },
+    {
+      "time": 1,
+      "value": "IN"
+    },
+    {
+      "time": 1,
+      "value": "IN"
+    },
+    {
+      "time": 1,
+      "value": "OUT"
+    },
+    {
+      "time": 2,
+      "value": "OUT"
+    },
+    {
+      "time": 2,
+      "value": "OUT"
+    },
+    {
+      "time": 2,
+      "value": "IN"
+    },
+    {
+      "time": 2,
+      "value": "OUT"
+    },
+    {
+      "time": 2,
+      "value": "IN"
+    },
+    {
+      "time": 3,
+      "value": "IN"
+    },
+    {
+      "time": 3,
+      "value": "OUT"
+    },
+    {
+      "time": 3,
+      "value": "IN"
+    },
+    {
+      "time": 3,
+      "value": "IN"
+    },
+    {
+      "time": 4,
+      "value": "IN"
+    },
+    {
+      "time": 4,
+      "value": "OUT"
+    },
+    {
+      "time": 5,
+      "value": "IN"
+    },
+    {
+      "time": 5,
+      "value": "IN"
+    },
+    {
+      "time": 5,
+      "value": "IN"
+    },
+    {
+      "time": 6,
+      "value": "OUT"
+    },
+    {
+      "time": 6,
+      "value": "OUT"
+    },
+    {
+      "time": 6,
+      "value": "OUT"
+    },
+    {
+      "time": 7,
+      "value": "IN"
+    },
+    {
+      "time": 7,
+      "value": "OUT"
+    },
+    {
+      "time": 7,
+      "value": "IN"
+    },
+    {
+      "time": 8,
+      "value": "IN"
+    },
+    {
+      "time": 8,
+      "value": "OUT"
+    },
+    {
+      "time": 8,
+      "value": "IN"
+    },
+    {
+      "time": 8,
+      "value": "IN"
+    },
+    {
+      "time": 8,
+      "value": "IN"
+    },
+    {
+      "time": 8,
+      "value": "OUT"
+    },
+    {
+      "time": 8,
+      "value": "IN"
+    },
+    {
+      "time": 9,
+      "value": "IN"
+    },
+    {
+      "time": 9,
+      "value": "IN"
+    },
+    {
+      "time": 9,
+      "value": "OUT"
+    },
+    {
+      "time": 9,
+      "value": "OUT"
+    },
+    {
+      "time": 9,
+      "value": "OUT"
+    },
+    {
+      "time": 10,
+      "value": "IN"
+    },
+    {
+      "time": 10,
+      "value": "OUT"
+    },
+    {
+      "time": 10,
+      "value": "IN"
+    }
+  ]
+}
